@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer | Recent CS Graduate | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+  <img src="https://komarev.com/ghpvc/?username=<h1 align="center">Hi there 👋, I'm [Nilesh Gentyala]</h1>
 <h3 align="center">A passionate Web Developer | Recent CS Graduate | MERN Stack Enthusiast</h3>
 
 <p align="center">
